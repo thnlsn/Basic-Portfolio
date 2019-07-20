@@ -1,0 +1,83 @@
+/* ALL HTML FILES */
+
+body {
+    background-image: url("../images/whiteWaves.png");
+}
+
+div {
+    border: 2px solid #dddddd;
+    padding: 25px;
+    margin: 0 auto;
+    min-width: 960px;
+    max-width: 960px;
+  }
+
+header {
+
+}
+
+.myName {
+
+}
+
+.links {
+
+}
+
+.content {
+
+}
+
+footer {
+
+}
+
+/* INDEX.HTML */
+
+#myFace {
+    height: 390px;
+    width: 310px;
+}
+
+
+
+
+
+
+
+
+
+/* PORTFOLIO.HTML */
+
+
+
+
+
+
+
+
+
+
+
+/* CONTACT.HTML */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
