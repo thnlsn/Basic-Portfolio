@@ -1,42 +1,108 @@
-/* ALL HTML FILES */
+
+
+
+
+/*▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉|ALL HTML FILES|▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
 
 body {
     background-image: url("../images/whiteWaves.png");
+    clear: both;
 }
 
-div {
-    border: 2px solid #dddddd;
-    padding: 25px;
-    margin: 0 auto;
-    min-width: 960px;
-    max-width: 960px;
-  }
+.▉▊heading {
+
+    height: 80px;
+    background-color: #ffffff;
+    width: 100%;
+
+}
 
 header {
 
-}
-
-.myName {
-
-}
-
-.links {
+    width: 960px;
+    margin: auto;
+    background-color: #ffffff;
+    height: 100%;
 
 }
 
-.content {
+#▉▊myName {
+
+    float: left;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    height: 100%;
+    width: 33.33%;
+    text-align: center;
+
+}
+
+#▉▊links {
+
+    float: right;
+    height: 100%;
+    width: 33.33%;
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+#▉▊indexlink {
+
+    width: 33.33%;
+    height: 100%;
+    float: left;
+    text-align: center;
+}
+
+#▉▊portlink {
+
+    width: 33.33%;
+    height: 100%;
+    float: left;
+    text-align: center;
+    border: 100px;
+
+}
+
+#▉▊contlink {
+
+    width: 33.33%;
+    height: 100%;
+    float: left;
+
+}
+
+.▉▊content {
+
+    background-color: #ffffff;
+    margin: auto;
+    width: 960px;
+    clear: both;
+    margin-top: 40px;
+
+
+
+}
+
+#▉▊footing {
 
 }
 
 footer {
-
+    text-align: center
 }
 
-/* INDEX.HTML */
+/*▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉|INDEX.HTML|▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉*/
 
-#myFace {
-    height: 390px;
-    width: 310px;
+#▉▊myFace {
+    height: 380px;
+    width: 300px;
 }
 
 
@@ -47,7 +113,11 @@ footer {
 
 
 
-/* PORTFOLIO.HTML */
+
+
+
+
+/*▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉PORTFOLIO.HTML▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉*/
 
 
 
@@ -59,9 +129,12 @@ footer {
 
 
 
-/* CONTACT.HTML */
 
 
+
+
+
+/*▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉CONTACT.HTML▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉*/
 
 
 
